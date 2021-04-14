@@ -5,6 +5,7 @@
 h1{
 	text-align:center;
 	size:150%;
+	margin-bottom:30px;
 }
 p{
 	color:black;
@@ -92,7 +93,7 @@ span{
 
 .row p{
 	position:absolute;
-	bottom:60px;
+	bottom:30px;
 	text-align:center;
 	size:2em;
 }
